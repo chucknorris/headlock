@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "headlock", "headlock\headlock.csproj", "{A241C391-7C7C-4E94-9F8B-E1BB8CEEEFF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "headlock.specs", "headlock.specs\headlock.specs.csproj", "{8B28428C-50E0-4349-AB1C-DE207BF261F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A241C391-7C7C-4E94-9F8B-E1BB8CEEEFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A241C391-7C7C-4E94-9F8B-E1BB8CEEEFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A241C391-7C7C-4E94-9F8B-E1BB8CEEEFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A241C391-7C7C-4E94-9F8B-E1BB8CEEEFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B28428C-50E0-4349-AB1C-DE207BF261F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B28428C-50E0-4349-AB1C-DE207BF261F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B28428C-50E0-4349-AB1C-DE207BF261F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B28428C-50E0-4349-AB1C-DE207BF261F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
