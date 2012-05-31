@@ -1,6 +1,7 @@
+using NUnit.Framework;
+
 namespace headlock.specs
 {
-    using MbUnit.Framework;
     using model;
     using processes;
 

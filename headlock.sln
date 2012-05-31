@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "headlock", "headlock\headlock.csproj", "{A241C391-7C7C-4E94-9F8B-E1BB8CEEEFF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "headlock.specs", "headlock.specs\headlock.specs.csproj", "{8B28428C-50E0-4349-AB1C-DE207BF261F5}"
